@@ -3,4 +3,4 @@ FakeSelect
 
 Turn HTML select into Bootstrap button dropdown.
 
-Demo: http://takien.github.com/FakeSelect/
+Demo: http://cecekpawon.github.io/FakeSelect/
